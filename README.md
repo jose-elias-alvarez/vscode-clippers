@@ -33,6 +33,10 @@ vscode-scissors wants you to create snippets as fast as possible, so this is not
 
 To reduce the odds of conflicts with existing snippets, custom locations aren't currently supported, but if you have a strong use case, please open an issue.
 
+## Credits
+
+- [nvim-scissors](https://github.com/chrisgrieser/nvim-scissors), an excellent Neovim plugin that is the direct inspiration for this one
+
 ## Release Notes
 
 ### 1.0.0
