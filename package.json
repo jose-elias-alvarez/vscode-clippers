@@ -1,6 +1,6 @@
 {
   "name": "vscode-clippers",
-  "publisher": "jea",
+  "publisher": "jose-elias-alvarez",
   "displayName": "vscode-clippers",
   "description": "Quickly create snippets from your selection.",
   "repository": "https://github.com/jose-elias-alvarez/vscode-clippers",
