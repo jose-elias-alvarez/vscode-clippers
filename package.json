@@ -3,7 +3,8 @@
   "publisher": "jea",
   "displayName": "vscode-clippers",
   "description": "Quickly create snippets from your selection.",
-  "version": "0.0.1",
+  "repository": "https://github.com/jose-elias-alvarez/vscode-clippers",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.95.0"
   },
