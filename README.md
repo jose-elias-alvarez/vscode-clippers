@@ -2,7 +2,7 @@
 
 Quickly create snippets from your selection.
 
-[screen recording goes here]
+https://github.com/user-attachments/assets/9d67e7c6-f4a8-45c9-b4f2-37381f59611b
 
 Snippets are useful and powerful, but I don't like using gigantic snippet packs, which are hard to remember and don't match my preferences / project style. VS Code's snippets syntax is great, but creating a new snippet in raw JSON is painful.
 
