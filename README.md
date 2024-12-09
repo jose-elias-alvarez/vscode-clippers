@@ -39,6 +39,10 @@ To reduce the odds of conflicts with existing snippets, custom locations aren't 
 
 ## Release Notes
 
+### 1.0.1
+
+Lower VS Code version requirement.
+
 ### 1.0.0
 
 Initial release.
